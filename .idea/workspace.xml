@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="754594b6-adf7-4386-8262-dc329f75f7ca" name="Changes" comment="Project init custom blockchain">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wallet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CryptoStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CryptoStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +34,9 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="3c7f5eb3-4188-42bb-95a1-5b6466d0cf32" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2nbOEJHxXLs0p79YJFvQ9mFrkaX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,9 +55,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729238195903</updated>
       <workItem from="1729238197076" duration="3311000" />
+      <workItem from="1729241638971" duration="8636000" />
     </task>
     <task id="LOCAL-00001" summary="Project init custom blockchain">
       <option name="closed" value="true" />
@@ -75,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729241255769</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Project init custom blockchain">
+      <option name="closed" value="true" />
+      <created>1729241662339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729241662339</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
